@@ -10,3 +10,5 @@ npm install
 npm run dev     # desenvolvimento
 npm run build   # build de produção (Vercel usa este comando)
 ```
+
+Demo publicada: https://rafaela-barbalho-nail-designer-joao-pessoa.vercel.app
